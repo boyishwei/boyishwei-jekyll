@@ -21,10 +21,11 @@ task :deploy => :environment do
     invoke :'git:clone'
     invoke :'bundle:install'
     queue "ruby -v"
-    #queue "jekyll -v"
     queue "bundle -v"
-    #queue %{bundle exec jekyll build -s }
-    #queue "#{bundle_prefix} jekyll build"
+    queue "echo ==============="
+    queue %{bundle exec jekyll build -s }
+    #queue "gem install jekyll"
+    queue "#{bundle_prefix} jekyll build"
   end
 end
 
