@@ -67,6 +67,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  execjs
   jekyll
 
 BUNDLED WITH
