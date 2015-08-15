@@ -23,7 +23,7 @@ task :deploy => :environment do
     queue "ruby -v"
     queue "bundle -v"
     queue "echo ==============="
-    queue %{bundle exec jekyll build -s }
+    #queue %{bundle exec jekyll build -s }
     #queue "gem install jekyll"
     queue "#{bundle_prefix} jekyll build"
   end
