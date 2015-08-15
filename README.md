@@ -2,7 +2,7 @@ A jekyll based blog, which is easy to mainten, write, and deploy, espacially eas
 
 This blog is powered by jekyll, and hosted by Nginx on AWS, and deployed by mina automaticly.
 
-[boyishwei|www.boyishwei.com]
+[boyishwei](www.boyishwei.com)
 
 
 Cheers
