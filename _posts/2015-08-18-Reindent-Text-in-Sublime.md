@@ -9,12 +9,12 @@ Quick tip: Sublime will reindent code for you and usually does a pretty good job
 
 I have a custom key binding setup in Sublime so I can reindent code with the ⌘⇧R shortcut. To do that, just add the following line to your user keybindings, which can be found in the Sublime 2 menu under Preferences → Key Bindings – User.
 
-```
+{% highlight groovy %}
 { 
   "keys": ["super+shift+r"], 
   "command": "reindent" , 
   "args": {"single_line": false}
 }
-```
+{% endhighlight %}
 
 [original post](https://joshbetz.com/2012/09/reindent-text-in-sublime)
