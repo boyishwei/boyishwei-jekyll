@@ -22,6 +22,6 @@ Software Dev. mainly worked on the CRM system for China Telecom and China Unicom
 #### *2010-2013 HP*
 Senior Dev and Support consltant, @ ALU project.
 
-#### *2013-Present*
-Dell DSG, Staff Dev Engnieer.
+#### *2013-Present* Dell DSG
+Staff Dev Engnieer.
 
