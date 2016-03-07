@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<image src='https://avatars.githubusercontent.com/u/4755065?&amp;s=120'></image>
+<image class='avatar' src='https://avatars.githubusercontent.com/u/4755065?&amp;s=120'></image>
 
 ## Ryan Jiang
 
