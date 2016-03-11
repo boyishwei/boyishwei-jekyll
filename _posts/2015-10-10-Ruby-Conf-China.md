@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby Conference China 2015 (Day One)"
-permalink: "Ruby-Conf-China-2015"
+permalink: "Ruby-Conf-China-2015/"
 date:   2015-10-10 20:12:19
 categories: Ruby 
 ---
