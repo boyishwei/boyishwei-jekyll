@@ -5,7 +5,7 @@ require 'mina/rvm'
 
 set :domain, 'www.boyishwei.com'
 set :user, 'ec2-user'
-set :identity_file, '/opt/projects/aws/boyishwei.pem' 
+set :identity_file, '~/aws/boyishwei.pem' 
 set :deploy_to, '/home/ec2-user/blog'
 set :repository, 'git@github.com:boyishwei/boyishwei-jekyll.git'
 set :branch, 'master'
